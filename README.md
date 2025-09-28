@@ -1,1 +1,1 @@
-# Bavel-API-unofiicial-
+# Bavel-API-unofficial
