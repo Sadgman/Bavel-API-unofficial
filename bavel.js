@@ -2,6 +2,7 @@ import puppeteer from 'puppeteer';
 import dotenv from 'dotenv';
 dotenv.config();
 
+//Entrega documento requerido por gerencia de ventas de manera automatica.
 const browser =  await puppeteer.launch({
     headless: false
 })
